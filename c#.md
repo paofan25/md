@@ -91,3 +91,19 @@ yourWeight
 ![image-20250217200341656](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200341656.png)
 
 ![image-20250217200425535](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200425535.png)
+
+![image-20250217200737355](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200737355.png)
+
+![image-20250217200837299](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200837299.png)
+
+![image-20250217201154030](D:\md\image-20250217201154030.png)
+
+![image-20250217201158211](D:\md\image-20250217201158211.png)
+
+![image-20250217201200539](D:\md\image-20250217201200539.png)
+
+![image-20250217201245321](D:\md\assets\image-20250217201245321.png)
+
+![image-20250217201247887](D:\md\assets\image-20250217201247887.png)
+
+![image-20250217201250090](D:\md\assets\image-20250217201250090.png)
