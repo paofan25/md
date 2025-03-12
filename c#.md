@@ -1,7 +1,7 @@
 ### c#
-![image-20250216225532907](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250216225532907.png)
+![image-20250216225532907](./assets/image-20250216225532907.png)
 
-![image-20250216225720086](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250216225720086.png)
+![image-20250216225720086](./assets/image-20250216225720086.png)
 
 有自动空行，无自动空行
 
@@ -92,9 +92,9 @@ yourWeight
 
 ![image-20250217200425535](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200425535.png)
 
-![image-20250217200737355](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200737355.png)
+![image-20250217200737355](./assets/image-20250217200737355.png)
 
-![image-20250217200837299](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200837299.png)
+![image-20250217200837299](./assets/image-20250217200837299.png)
 
 啊啊
 
