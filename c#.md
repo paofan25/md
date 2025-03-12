@@ -7,19 +7,19 @@
 
 写一个键即可，写一行东西按enter才行
 
-![image-20250216225743379](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250216225743379.png)
+![image-20250216225743379](./assets/image-20250216225743379.png)
 
-![image-20250217124002219](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217124002219.png)
+![image-20250217124002219](./assets/image-20250217124002219.png)
 
-![image-20250217130222229](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217130222229.png)
+![image-20250217130222229](./assets/image-20250217130222229.png)
 
-![image-20250217130313944](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217130313944.png)
+![image-20250217130313944](./assets/image-20250217130313944.png)
 
 num
 
 默认是double类型，加了float才告诉计算机是浮点数
 
-![image-20250217155131282](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217155131282.png)
+![image-20250217155131282](./assets/image-20250217155131282.png)
 
 sbyte 1
 
@@ -49,7 +49,7 @@ char2
 
 string打不出来
 
-![image-20250217161556076](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217161556076.png)
+![image-20250217161556076](./assets/image-20250217161556076.png)
 
 myAge
 
@@ -63,7 +63,7 @@ yourHeight
 
 yourWeight
 
-![image-20250217162351668](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217162351668.png)
+![image-20250217162351668](./assets/image-20250217162351668.png)
 
 不可以修改
 
@@ -76,21 +76,21 @@ yourWeight
 \t
 ```
 
-![image-20250217170005363](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217170005363.png)
+![image-20250217170005363](./assets/image-20250217170005363.png)
 
 大范围转小范围，int转long
 
-![image-20250217182341609](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217182341609.png)
+![image-20250217182341609](./assets/image-20250217182341609.png)
 
-![image-20250217184127010](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217184127010.png)
+![image-20250217184127010](./assets/image-20250217184127010.png)
 
-![image-20250217185852933](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217185852933.png)
+![image-20250217185852933](./assets/image-20250217185852933.png)
 
-![image-20250217194229064](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217194229064.png)
+![image-20250217194229064](./assets/image-20250217194229064.png)
 
-![image-20250217200341656](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200341656.png)
+![image-20250217200341656](./assets/image-20250217200341656.png)
 
-![image-20250217200425535](C:\Users\19562\AppData\Roaming\Typora\typora-user-images\image-20250217200425535.png)
+![image-20250217200425535](./assets/image-20250217200425535.png)
 
 ![image-20250217200737355](./assets/image-20250217200737355.png)
 
